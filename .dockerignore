@@ -1,0 +1,10 @@
+# Docker Environment Files
+.env
+
+# Database Files
+postgres_data/
+*.db
+*.sqlite3
+
+# pgAdmin Files
+pgadmin_data/
